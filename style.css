@@ -4,6 +4,10 @@ body {
     font-family: sans-serif;
 }
 
+.img {
+    text-align: center;
+}
+
 img {
     padding: auto;
     margin: auto;
