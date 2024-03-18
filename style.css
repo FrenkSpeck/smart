@@ -3,3 +3,9 @@ body {
     color: #f5f5f5;
     font-family: sans-serif;
 }
+
+img {
+    padding: auto;
+    margin: auto;
+    width: 80%;
+}
